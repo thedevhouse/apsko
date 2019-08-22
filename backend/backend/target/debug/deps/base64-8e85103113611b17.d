@@ -1,0 +1,12 @@
+c:\Users\Alex\Documents\GitHub\apsko\backend\backend\target\debug\deps\base64-8e85103113611b17.rmeta: C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\lib.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\chunked_encoder.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\display.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\tables.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\mod.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\encoder.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\encode.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\decode.rs
+
+c:\Users\Alex\Documents\GitHub\apsko\backend\backend\target\debug\deps\base64-8e85103113611b17.d: C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\lib.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\chunked_encoder.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\display.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\tables.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\mod.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\encoder.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\encode.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\decode.rs
+
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\lib.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\chunked_encoder.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\display.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\tables.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\mod.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\write\encoder.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\encode.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.10.1\src\decode.rs:
