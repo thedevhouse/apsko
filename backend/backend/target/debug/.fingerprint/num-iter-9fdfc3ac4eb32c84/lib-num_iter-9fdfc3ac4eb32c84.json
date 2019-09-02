@@ -1,0 +1,1 @@
+{"rustc":18321205956227587961,"features":"[\"num-integer\", \"num-traits\", \"std\"]","target":1358370097538797681,"profile":11870183705523825133,"path":5540094094974202779,"deps":[["num-integer v0.1.41","num_integer",38623341568242046],["num-traits v0.2.8","num_traits",15232478252631348611]],"local":[{"Precalculated":"0.1.39"}],"rustflags":[],"edition":"Edition2015"}

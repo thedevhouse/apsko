@@ -1,0 +1,1 @@
+{"rustc":18321205956227587961,"features":"[]","target":17379886667113266210,"profile":13846881912122723292,"path":10420086475220937765,"deps":[["idna v0.2.0","idna",3839124714494387440],["matches v0.1.8","matches",7805505053423047547],["percent-encoding v2.1.0","percent_encoding",13006117490987606950]],"local":[{"Precalculated":"2.1.0"}],"rustflags":[],"edition":"Edition2015"}

@@ -1,0 +1,12 @@
+c:\Users\Alex\Documents\GitHub\apsko\backend\backend\target\rls\debug\deps\cc-46ace985ddcbb250.rmeta: C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\lib.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\registry.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\winapi.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\com.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\setup_config.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\windows_registry.rs
+
+c:\Users\Alex\Documents\GitHub\apsko\backend\backend\target\rls\debug\deps\libcc-46ace985ddcbb250.rlib: C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\lib.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\registry.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\winapi.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\com.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\setup_config.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\windows_registry.rs
+
+c:\Users\Alex\Documents\GitHub\apsko\backend\backend\target\rls\debug\deps\cc-46ace985ddcbb250.d: C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\lib.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\registry.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\winapi.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\com.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\setup_config.rs C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\windows_registry.rs
+
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\lib.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\registry.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\winapi.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\com.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\setup_config.rs:
+C:\Users\Alex\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.40\src\windows_registry.rs:
