@@ -1,0 +1,1 @@
+{"rustc":18321205956227587961,"features":"[\"correct\", \"default\", \"lexical-core\", \"ryu\", \"std\"]","target":4944179213620976468,"profile":11870183705523825133,"path":5046142870685189552,"deps":[["rustc_version v0.2.3","rustc_version",4660727894063906831]],"local":[{"Precalculated":"2.2.2"}],"rustflags":[],"edition":"Edition2015"}
